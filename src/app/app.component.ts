@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
-
-
 import { ChatModule } from './chat/chat.module';
 @Component({
   selector: 'app-root',
